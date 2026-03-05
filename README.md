@@ -18,7 +18,7 @@ API REST con autenticación de dos factores (2FA), dispositivos de confianza y C
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/Daner199/api-2fa.git>
 cd api-2fa
 ```
 
